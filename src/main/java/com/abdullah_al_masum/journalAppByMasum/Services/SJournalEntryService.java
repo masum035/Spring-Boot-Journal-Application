@@ -1,7 +1,7 @@
-package net.engineeringdigest.journalApp.Services;
+package com.abdullah_al_masum.journalAppByMasum.Services;
 
-import net.engineeringdigest.journalApp.Entity.JournalEntry;
-import net.engineeringdigest.journalApp.Repository.IJournalEntryRepository;
+import com.abdullah_al_masum.journalAppByMasum.Repository.IJournalEntryRepository;
+import com.abdullah_al_masum.journalAppByMasum.Entity.JournalEntry;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

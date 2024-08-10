@@ -1,6 +1,6 @@
-package net.engineeringdigest.journalApp.Repository;
+package com.abdullah_al_masum.journalAppByMasum.Repository;
 
-import net.engineeringdigest.journalApp.Entity.JournalEntry;
+import com.abdullah_al_masum.journalAppByMasum.Entity.JournalEntry;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 

@@ -1,4 +1,4 @@
-package net.engineeringdigest.journalApp;
+package com.abdullah_al_masum.journalAppByMasum;
 
 
 import org.springframework.boot.SpringApplication;

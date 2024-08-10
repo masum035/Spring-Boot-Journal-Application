@@ -1,8 +1,7 @@
-package net.engineeringdigest.journalApp.Controller;
+package com.abdullah_al_masum.journalAppByMasum.Controller;
 
-import net.engineeringdigest.journalApp.Entity.JournalEntry;
-import net.engineeringdigest.journalApp.Repository.IJournalEntryRepository;
-import net.engineeringdigest.journalApp.Services.SJournalEntryService;
+import com.abdullah_al_masum.journalAppByMasum.Services.SJournalEntryService;
+import com.abdullah_al_masum.journalAppByMasum.Entity.JournalEntry;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
