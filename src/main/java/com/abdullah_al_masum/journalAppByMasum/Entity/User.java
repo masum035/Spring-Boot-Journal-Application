@@ -1,5 +1,6 @@
 package com.abdullah_al_masum.journalAppByMasum.Entity;
 
+import lombok.Builder;
 import lombok.Data;
 import lombok.NonNull;
 import org.bson.types.ObjectId;
